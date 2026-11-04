@@ -631,9 +631,7 @@ BUILD WHAT CAN BE REUSED
 
 # License
 
-This repository is intended for permanent open-source availability.
-
-The repository should include an explicit open-source license in `LICENSE`.
+**No license is currently specified.** The repository's current default branch does not contain a `LICENSE` file. Although this project expresses an intention to remain openly available, that intention is not itself an open-source license. Until maintainers choose and add an explicit license, users should not assume permission to reuse, modify, or redistribute the contents. Maintainers should select an appropriate license and commit its complete text in `LICENSE`.
 
 # Status
 
